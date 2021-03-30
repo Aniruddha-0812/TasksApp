@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">noteapp</string>
+    <string name="note_title">Task Title</string>
+    <string name="saved">Note saved</string>
+    <string name="updated">Note updated</string>
+    <string name="search_bar">Search notes</string>
+    <string name="submit_note">SUBMIT NOTE</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="change">CHANGE</string>
+    <string name="search">SEARCH</string>
+    <string name="delete">Delete</string>
+    <string name="important">Important Tasks</string>
+    <string name="show_all">Show All Tasks</string>
+    <string name="incomplete_tasks">Incomplete tasks</string>
+    <string name="completed_tasks">Delete Completed tasks</string>
+    <string name="mark_important">Mark Important</string>
+    <string name="mark_complete">Mark Complete</string>
+    <string name="task_subtitle">Task Subtitle</string>
+    <string name="task_description">Task Description</string>
+    <string name="enter_task_title">Enter Task Title</string>
+    <string name="enter_task_subtitle">Enter Task Subtitle</string>
+    <string name="enter_task_description">Enter Task Description</string>
+</resources>

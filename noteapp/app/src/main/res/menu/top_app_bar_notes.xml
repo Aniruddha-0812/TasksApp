@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/change"
+        android:icon="@drawable/ic_baseline_change_circle_24"
+        android:title="@string/change"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/search"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+
+    <item
+        android:id="@+id/important"
+        android:title="@string/important"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/sortby"
+        android:title="@string/incomplete_tasks"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/complete"
+        android:title="@string/completed_tasks"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/all"
+        android:title="@string/show_all"
+        app:showAsAction="never" />
+
+</menu>
